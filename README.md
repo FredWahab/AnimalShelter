@@ -3,9 +3,10 @@ Grazioso Salvare’s Search-and-Rescue Training Canidates</br>
 A project for CS-340 Client/Server Development
 
 <b>How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?</b></br>
-
+Focus on modular design with clear, descriptive naming, consistent coding styles, thorough documentation, robust error handling, and automated testing. Using the CRUD Python module to connect dashboard widgets has advantages like code reusability, simplicity in database interactions, and ensuring consistent data management practices across applications. This module can be extended for various interfaces, business logic integrations, and frameworks to meet specific project needs effectively.
 
 <b>How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?</b></br>
-
+Approaching problems as a computer scientist involves understanding client requirements, designing practical solutions, and iterating through implementation and testing phases. I approached Grazioso Salvare's request by dissecting it into key elements: database setup, CRUD operations, and web application integration. Each component underwent testing against the required specifications to ensure the final deliverable met their needs. This method has evolved over this course, allowing me to refine my skills continuously. In the future, I plan to implement similar strategies to create databases.
 
 <b>What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?</b></br>
+Computer scientists analyze complex problems and create solutions through algorithms and software development. My work can enhance efficiency, data management, and decision-making capabilities for companies by integrating databases with dashboards, implementing CRUD operations, and ensuring scalable, adaptable systems that support business growth and operational excellence.
